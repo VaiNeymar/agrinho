@@ -1,0 +1,56 @@
+:root {
+    --cor-de-fundo: #db0d0d8e;
+    --black: black;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -34px;
+
+}
+
+
+.introducao {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 14px 17px;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
+
+.desenvolvimento {
+    display: flex;
+    margin: 25px 0 0 0;
+    padding: 8px 17px;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
+
+.conclusao {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
+
+.adotar {
+    display: flex;
+    margin: -28px 0 0 0;
+    padding: 20px 0;
+    background-color: var(--cor-de-fundo);
+    border-radius: 19px ;
+    border: 3px solid var(--black);
+}
