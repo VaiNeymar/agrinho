@@ -57,7 +57,7 @@ header {
 #bichinhos  {display: grid;
     text-align: center;
      margin-top: 70px;
-      grid-template-columns: 50% 50% ;
+      grid-template-columns: 33% 33% 33% ;
       border-radius: 19px ;
      border: 3px solid var(--black);
      margin: 1px 0 0 0;
