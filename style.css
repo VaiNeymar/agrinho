@@ -63,3 +63,13 @@ header {
      margin: 1px 0 0 0;
      padding: 20px 17px;
     }
+    #equipe {
+        display: grid;
+        text-align: center;
+         margin-top: 70px;
+          grid-template-columns: 50% 50% ;
+          border-radius: 19px ;
+         border: 3px solid var(--black);
+         margin: 1px 0 0 0;
+         padding: 20px 17px;
+        }
